@@ -6,5 +6,5 @@ Umbriel Brain is a **generated sibling** of Seraphiel Brain (embreythecreator/se
 |---|---|
 | Source tag | `seraphim-cut-base-2026-09-15` |
 | Source commit | `1c0fbfcb5b276cc99689dec271243e409bb3d726` |
-| Rebranded tree | `eed4abd3d89dc1912dafcc86726f55c464347096` |
+| Rebranded tree | `7429a5e2a9eb87998492c3ecad19ff38c4944b05` |
 | Cut on | 2026-09-16 |
