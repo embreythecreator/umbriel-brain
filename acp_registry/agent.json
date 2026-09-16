@@ -1,0 +1,16 @@
+{
+  "id": "umbriel-brain",
+  "name": "Umbriel Brain",
+  "version": "0.19.0",
+  "description": "Self-improving open-source AI agent by Umbriel with ACP editor integration, persistent memory, skills, and rich tool support.",
+  "repository": "https://github.com/embreythecreator/umbriel-brain",
+  "website": "https://umbriel-brain.embreythecreator.com/docs/user-guide/features/acp",
+  "authors": ["Umbriel"],
+  "license": "MIT",
+  "distribution": {
+    "uvx": {
+      "package": "umbriel-brain[acp]==0.19.0",
+      "args": ["umbriel-acp"]
+    }
+  }
+}
