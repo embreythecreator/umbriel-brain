@@ -1,6 +1,6 @@
 """`umbriel update` must self-heal the ``umbriel-acp`` launcher.
 
-ACP hosts (Zed, JetBrains, Buzz Desktop) resolve the agent by the
+ACP hosts (Zed, JetBrains, Plane Desktop) resolve the agent by the
 ``umbriel-acp`` command name on the login-shell PATH. Fresh installs get the
 launcher from ``scripts/install.sh``; existing installs get it from
 ``_ensure_acp_launcher()`` during ``umbriel update``.
